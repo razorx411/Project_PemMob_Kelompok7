@@ -9,13 +9,12 @@
 <p align="center"> Universitas Pembangunan Nasional “Veteran” Jawa Timur </p>
 <p align="center"> Fakultas Ilmu Komputer </p>
 <p align="center"> Program Studi Informatika </p>
-
-Deskripsi Proyek :
-Repositori ini diperuntukkan sebagai wadah pengumpulan dan dokumentasi tugas-tugas mata kuliah Pemrograman Mobile Kelompok 7. Seluruh kode sumber, laporan, dan aset pendukung dikelola secara terpusat untuk memudahkan kolaborasi dan evaluasi.
-
-Anggota Kelompok <hr>
-Berikut adalah struktur tim beserta peran dan Nomor Registrasi Pokok (NRP) masing-masing anggota: 
 <hr>
+Deskripsi Proyek : <br>
+Repositori ini diperuntukkan sebagai wadah pengumpulan dan dokumentasi tugas-tugas mata kuliah Pemrograman Mobile Kelompok 7. Seluruh kode sumber, laporan, dan aset pendukung dikelola secara terpusat untuk memudahkan kolaborasi dan evaluasi.
+<br>
+Berikut adalah struktur tim beserta peran dan NPM masing-masing anggota: 
+<br>
 Hafid Fathurohman	Captain (Ketua Tim)	24082010165 <br>
 Sarah Amelia	Hipster (Desain & UI/UX)	24082010 <br>
 M Iqbal Maula	Hustler (Manajemen & Komersialisasi)	24082010 <br>
