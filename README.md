@@ -2,7 +2,7 @@
 
 -- PEMMOB KELOMPOK 7 --
 
-<img src="images/example.png" width="300" />
+<img src="logo-1-300x294.png" width="300" />
 
 KLAN UBERMENSCH :
 HAFID FATHURROHMAN (CAPTAIN/24082010165)
