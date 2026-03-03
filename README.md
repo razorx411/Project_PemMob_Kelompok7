@@ -4,9 +4,21 @@
 
 <img src="logo-1-300x294.png" width="300" />
 
-KLAN UBERMENSCH :
-HAFID FATHURROHMAN (CAPTAIN/24082010165)
-SARAH AMELIA (HIPSTER/24082010)
-M IQBAL MAULA (HUSTLER/24082010)
-M YAZID NURROCHMAN (HACKER/24082010)
+Project_PemMob_Kelompok7
+Pemrograman Mobile Kelompok 7
+Universitas Pembangunan Nasional “Veteran” Jawa Timur
+Fakultas Ilmu Komputer
+Program Studi Informatika
+
+Deskripsi Proyek
+Repositori ini diperuntukkan sebagai wadah pengumpulan dan dokumentasi tugas-tugas mata kuliah Pemrograman Mobile Kelompok 7. Seluruh kode sumber, laporan, dan aset pendukung dikelola secara terpusat untuk memudahkan kolaborasi dan evaluasi.
+
+Anggota Kelompok
+Berikut adalah struktur tim beserta peran dan Nomor Registrasi Pokok (NRP) masing-masing anggota:
+
+Nama Lengkap	Peran	NRP
+Hafid Fathurohman	Captain (Ketua Tim)	24082010165
+Sarah Amelia	Hipster (Desain & UI/UX)	24082010
+M Iqbal Maula	Hustler (Manajemen & Komersialisasi)	24082010
+M Yazid Nurochman	Hacker (Pengembangan Teknis)	24082010
 
