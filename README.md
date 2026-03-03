@@ -14,8 +14,8 @@ Deskripsi Proyek :
 Repositori ini diperuntukkan sebagai wadah pengumpulan dan dokumentasi tugas-tugas mata kuliah Pemrograman Mobile Kelompok 7. Seluruh kode sumber, laporan, dan aset pendukung dikelola secara terpusat untuk memudahkan kolaborasi dan evaluasi.
 
 Anggota Kelompok <hr>
-Berikut adalah struktur tim beserta peran dan Nomor Registrasi Pokok (NRP) masing-masing anggota: <hr>
-
+Berikut adalah struktur tim beserta peran dan Nomor Registrasi Pokok (NRP) masing-masing anggota: 
+<hr>
 Hafid Fathurohman	Captain (Ketua Tim)	24082010165 <hr>
 Sarah Amelia	Hipster (Desain & UI/UX)	24082010 <hr>
 M Iqbal Maula	Hustler (Manajemen & Komersialisasi)	24082010 <hr>
