@@ -2,7 +2,9 @@
 
 -- PEMMOB KELOMPOK 7 --
 
-<img src="logo-1-300x294.png" width="300" />
+<p align="center">
+  <img src="logo.png" width="200"/>
+</p>
 
 Project_PemMob_Kelompok7
 Pemrograman Mobile Kelompok 7
