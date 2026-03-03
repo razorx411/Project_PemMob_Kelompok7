@@ -1,6 +1,6 @@
 # Project_PemMob_Kelompok7
 
--- PEMMOB KELOMPOK 7 --
+<p align="center"><b>-- PEMMOB KELOMPOK 7 --</b></p>
 
 <p align="center">
   <img src="logo-1-300x294.png" width="200"/>
