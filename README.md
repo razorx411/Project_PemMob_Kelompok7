@@ -8,7 +8,7 @@
 
 <p align="center"> Universitas Pembangunan Nasional “Veteran” Jawa Timur </p>
 <p align="center"> Fakultas Ilmu Komputer </p>
-<p align="center"> Program Studi Informatika </p>
+<p align="center"> Program Studi Sistem Informasi </p>
 <hr>
 Deskripsi Proyek : <br>
 Repositori ini diperuntukkan sebagai wadah pengumpulan dan dokumentasi tugas-tugas mata kuliah Pemrograman Mobile Kelompok 7. Seluruh kode sumber, laporan, dan aset pendukung dikelola secara terpusat untuk memudahkan kolaborasi dan evaluasi. <br>
