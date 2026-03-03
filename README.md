@@ -3,7 +3,7 @@
 -- PEMMOB KELOMPOK 7 --
 
 <p align="center">
-  <img src="logo.png" width="200"/>
+  <img src="logo-1-300x294.png" width="200"/>
 </p>
 
 Project_PemMob_Kelompok7
